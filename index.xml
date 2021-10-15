@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>zhl&#39;s blog</title>
+        <link>https://ylxn-zhl.github.io/</link>
+        <description>hale&#39;s java note</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</lastBuildDate>
+            <atom:link href="https://ylxn-zhl.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Sharding</title>
+    <link>https://ylxn-zhl.github.io/sharding/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/sharding/</guid>
+    <description><![CDATA[Sharding Note ]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>https://ylxn-zhl.github.io/first_post/</link>
+    <pubDate>Wed, 29 Sep 2021 17:13:08 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/first_post/</guid>
+    <description><![CDATA[hello world!!! ]]></description>
+</item></channel>
+</rss>
