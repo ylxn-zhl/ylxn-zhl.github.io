@@ -3,15 +3,72 @@
         <title>zhl&#39;s blog</title>
         <link>https://ylxn-zhl.github.io/</link>
         <description>hale&#39;s java note</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zenghaile@163.com (一路向南-haile)</managingEditor>
+            <webMaster>zenghaile@163.com (一路向南-haile)</webMaster><lastBuildDate>Mon, 18 Oct 2021 18:33:40 &#43;0800</lastBuildDate>
             <atom:link href="https://ylxn-zhl.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Java NIO</title>
+    <link>https://ylxn-zhl.github.io/java-nio/</link>
+    <pubDate>Mon, 18 Oct 2021 18:33:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/java-nio/</guid>
+    <description><![CDATA[NIO 1，java NIO概述 替代java io的一个操作 面向缓冲区也可以基于通道操作 更高效的进行文件的读写操作 1.1 阻塞 IO 读或者写数据的时候，会阻塞直]]></description>
+</item><item>
     <title>Sharding</title>
     <link>https://ylxn-zhl.github.io/sharding/</link>
     <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://ylxn-zhl.github.io/sharding/</guid>
     <description><![CDATA[Sharding Note ]]></description>
+</item><item>
+    <title>设计模式-chapter02</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day02/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day02/</guid>
+    <description><![CDATA[4，创建型模式 4.2 工厂模式 4.2.1 概述 需求：设计一个咖啡店点餐系统。 设计一个咖啡类（Coffee），并定义其两个子类（美式咖啡【AmericanCo]]></description>
+</item><item>
+    <title>设计模式-chapter03</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day03/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day03/</guid>
+    <description><![CDATA[5，结构型模式 结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者]]></description>
+</item><item>
+    <title>设计模式-chapter04</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day04/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day04/</guid>
+    <description><![CDATA[5，结构型模式 5.6 组合模式 5.6.1 概述 ​ 对于这个图片肯定会非常熟悉，上图我们可以看做是一个文件系统，对于这样的结构我们称之为树形结构。在树形结构中可]]></description>
+</item><item>
+    <title>设计模式-chapter05</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day05/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day05/</guid>
+    <description><![CDATA[6，行为型模式 6.5 状态模式 6.5.1 概述 【例】通过按钮来控制一个电梯的状态，一个电梯有开门状态，关门状态，停止状态，运行状态。每一种状态改变，都有可能]]></description>
+</item><item>
+    <title>设计模式-chapter06</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day06/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day06/</guid>
+    <description><![CDATA[6，行为型模式 6.11 解释器模式 6.11.1 概述 如上图，设计一个软件用来进行加减计算。我们第一想法就是使用工具类，提供对应的加法和减法的工具方法。 1 2 3 4 5]]></description>
+</item><item>
+    <title>设计模式-导学</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%AF%BC%E5%AD%A6/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%AF%BC%E5%AD%A6/</guid>
+    <description><![CDATA[设计模式 1，课程背景 随着软件开发人员人数的增多，一些公司急需一些高端人才。作为一个高端人才，设计面向对象软件是必不可少的能力，而软件设计是需]]></description>
+</item><item>
+    <title>设计模式概述-chapter01</title>
+    <link>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day01/</link>
+    <pubDate>Thu, 14 Oct 2021 19:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ylxn-zhl.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day01/</guid>
+    <description><![CDATA[1，设计模式概述 1.1 软件设计模式的产生背景 &ldquo;设计模式&quot;最初并不是出现在软件设计中，而是被用于建筑领域的设计中。 1977年]]></description>
 </item><item>
     <title>First_post</title>
     <link>https://ylxn-zhl.github.io/first_post/</link>
